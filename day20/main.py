@@ -4,6 +4,9 @@ from food import Food
 from scoreboard import Scoreboard
 import time
 
+"""
+Day 20 and 21
+"""
 s = Screen()
 s.setup(width=600, height=600)
 s.bgcolor("black")
